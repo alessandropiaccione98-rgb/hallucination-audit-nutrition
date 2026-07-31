@@ -33,7 +33,7 @@ dominio per essere individuato.
 
 ### Autore
 Alessandro Piaccione — AI Evaluator & Red Teamer (Outlier.ai, OneForma).
-[LinkedIn] · [email]
+[www.linkedin.com/in/alessandro-piaccione-5780aa203] · [alessandro.piaccione98@gmail.com]
 
 ---
 
@@ -67,4 +67,4 @@ expertise to catch.
 
 ### Author
 Alessandro Piaccione — AI Evaluator & Red Teamer (Outlier.ai, OneForma).
-[LinkedIn] · [email]
+[www.linkedin.com/in/alessandro-piaccione-5780aa203] · [alessandro.piaccione98@gmail.com]
